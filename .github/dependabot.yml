@@ -3,7 +3,8 @@ updates:
 - package-ecosystem: pip
   directory: "/.dependabot"
   schedule:
-    interval: daily
+    interval: weekly
+    day: tuesday
   open-pull-requests-limit: 10
   ignore:
   - dependency-name: nglview
