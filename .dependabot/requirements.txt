@@ -1,3 +1,3 @@
-pyiron_atomistics==0.2.11
+pyiron_atomistics==0.2.12
 nglview==3.0.1
 lammps==2021.02.10
