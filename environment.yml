@@ -1,7 +1,7 @@
 channels:
 - conda-forge
 dependencies:
-- pyiron_atomistics=0.2.45
+- pyiron_atomistics=0.2.47
 - lammps
 - nglview=3.0.3
 - papermill
